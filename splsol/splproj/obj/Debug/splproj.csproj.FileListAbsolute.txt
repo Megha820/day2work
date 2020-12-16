@@ -1,0 +1,7 @@
+C:\Users\Deepesh\trainingwork_web\GitLearn\day2\splsol\splproj\bin\Debug\splproj.exe.config
+C:\Users\Deepesh\trainingwork_web\GitLearn\day2\splsol\splproj\bin\Debug\splproj.exe
+C:\Users\Deepesh\trainingwork_web\GitLearn\day2\splsol\splproj\bin\Debug\splproj.pdb
+C:\Users\Deepesh\trainingwork_web\GitLearn\day2\splsol\splproj\obj\Debug\splproj.csprojAssemblyReference.cache
+C:\Users\Deepesh\trainingwork_web\GitLearn\day2\splsol\splproj\obj\Debug\splproj.csproj.CoreCompileInputs.cache
+C:\Users\Deepesh\trainingwork_web\GitLearn\day2\splsol\splproj\obj\Debug\splproj.exe
+C:\Users\Deepesh\trainingwork_web\GitLearn\day2\splsol\splproj\obj\Debug\splproj.pdb
